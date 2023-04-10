@@ -1,0 +1,11 @@
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\bin\Debug\Facturacion4_0.exe.config
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\bin\Debug\Facturacion4_0.exe
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\bin\Debug\Facturacion4_0.pdb
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion4_0.csproj.AssemblyReference.cache
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion4_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion4_0.csproj.CoreCompileInputs.cache
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion4_0.csproj.CopyComplete
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion4_0.exe
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion4_0.pdb

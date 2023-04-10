@@ -1,0 +1,3 @@
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion_4.0.csproj.AssemblyReference.cache
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion_4.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\Facturacion_4.0\obj\Debug\Facturacion_4.0.csproj.CoreCompileInputs.cache
