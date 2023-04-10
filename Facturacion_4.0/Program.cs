@@ -14,7 +14,7 @@ namespace Facturacion4_0
     class Program
     {
         //Rutas
-        static private string path = @"C:\Users\GRUPO LAHE\Documents\Proyectos\Facturacion_4.0\";//Ruta Principal de proyecto.
+        static private string path = @"C:\Users\usuario\Documents\Proyectos\Facturacion_4.0\";//Ruta Principal de proyecto.
         static string pathXML = path + @"Facturacion_4.0\XmlSinTimbrar.xml";//Ruta donde guardar xml no timbrado.
         static string pathXMLFinal = path + @"Facturacion_4.0\XmlTimbrado.xml";//Ruta donde guardar xml timbrado.
 
